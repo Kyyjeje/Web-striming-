@@ -22,7 +22,7 @@ const Footer = () => {
                     </Link>
                 </p>
                 <p style={{ fontSize: '0.85rem' }}>
-                    &copy; {new Date().getFullYear()} Rebahan. API provided by Zeldvorik.
+                    &copy; {new Date().getFullYear()} SafariTV. Creator Developer by ©Rizz.yeyo.
                 </p>
             </div>
         </footer>
