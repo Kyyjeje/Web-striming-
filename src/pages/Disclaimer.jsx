@@ -17,6 +17,11 @@ const Disclaimer = () => {
                 </div>
 
                 <div className="disclaimerContent">
+               <section>
+               <h2>INFORMASI PENTING</h2>
+                   <stronge>Jika mengalami eror silahkan login seperti semula,mohon jangan sebar aplikasi ini tanpa seizin pemilik,saya sangat menghargai anda sebagai pengguna.</stronge>
+               </section>
+                    
                     <section>
                         <h2>Tentang Konten</h2>
                         <p>
