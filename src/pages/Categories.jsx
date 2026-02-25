@@ -32,17 +32,17 @@ const Categories = () => {
             color: '#4ecdc4'
         },
         {
-            name: 'K-Drama',
-            path: '/category/kdrama',
+            name: 'Drakor',
+            path: '/category/drakor',
             icon: Heart,
-            description: 'K-Drama terbaru',
+            description: 'Drakor terbaru',
             color: '#ff6b9d'
         },
         {
-            name: 'Short TV',
-            path: '/category/short-tv',
+            name: 'Drama China',
+            path: '/category/Drama-china',
             icon: Sparkles,
-            description: 'Hot Short TV series',
+            description: 'Hot drama china series',
             color: '#ffd93d'
         },
         {
