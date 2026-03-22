@@ -19,7 +19,8 @@ const Disclaimer = () => {
                 <div className="disclaimerContent">
                <section>
                <h2>INFORMASI PENTING</h2>
-                   <stronge>Jika mengalami eror silahkan login seperti semula,mohon jangan sebar aplikasi ini tanpa seizin pemilik,saya sangat menghargai anda sebagai pengguna.</stronge>
+                   <stronge>Terimakasih telah support Website kami Saya harap ini berita Terakhir Terkaitan SAFARITV Developer kami menyampaikan Bahwa kami harus menutup Website ini Dengan sangat hormat 
+                   pengguna dapat memahami hal ini. Selamat bertemu di Ramadhan tahun depan,SAFARITV MENGUCAPKAN SELAMAT HARI RAYA IDUL FITRI 1447H/2026M Salam creator By @Rizz.yeyo</stronge>
                </section>
                     
                     <section>
