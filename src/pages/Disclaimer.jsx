@@ -20,7 +20,7 @@ const Disclaimer = () => {
                <section>
                <h2>INFORMASI PENTING</h2>
                    <stronge>Terimakasih telah support Website kami Saya harap ini berita Terakhir Terkaitan SAFARITV Developer kami menyampaikan Bahwa kami harus menutup Website ini Dengan sangat hormat 
-                   pengguna dapat memahami hal ini. Selamat bertemu di Ramadhan tahun depan,<strong></strong>SAFARITV MENGUCAPKAN SELAMAT HARI RAYA IDUL FITRI 1447H/2026M Salam creator By @Rizz.yeyo<strong></stronge>
+                   pengguna dapat memahami hal ini. Selamat bertemu di Ramadhan tahun depan,<strong></strong>SAFARITV MENGUCAPKAN SELAMAT HARI RAYA IDUL FITRI 1447H/2026M Salam creator By @Rizz.yeyo</stronge>strong></stronge>
                </section>
                     
                     <section>
